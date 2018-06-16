@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker único.
 
-**Miguel Martín**
+
+
+**Miguel Martín**, git.
